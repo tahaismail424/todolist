@@ -1,0 +1,75 @@
+.hello {
+    color: red;
+}
+
+.hide {
+    display: none;
+}
+
+body {
+    background-color:  #0B0C10;
+}
+
+#program-title {
+    font-family: "Papyrus", "Copperplate", monospace;
+    text-align: center;
+    font-size: 10vw;
+    color: #66FCF1;
+}
+
+button {
+    background-color:  #C5C6C7;
+    border-radius: 10px;
+    color: #0B0C10;
+    
+}
+
+.title-view {
+    color: #66FCF1;
+}
+
+.description-view {
+    color: #C5C6C7;
+}
+
+
+.save, .reset, .cancel {
+    background-color: #C5C6C7;
+    border-radius: 10px;
+    color:  #0B0C10;
+}
+
+label {
+    color: #C5C6C7;
+    
+}
+
+.input {
+    color: #0B0C10;
+}
+
+.date-view {
+
+    color: #C5C6C7;
+}
+
+.prio-view {
+    color: white;
+}
+
+#new-button, #proj-button {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.proj-view {
+    width: 40vw;
+
+}
+
+.task-view {
+    width: 40vw;
+}
+
+
+    
