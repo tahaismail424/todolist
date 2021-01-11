@@ -1,75 +1,70 @@
 .hello {
-    color: red;
+  color: red;
 }
 
 .hide {
-    display: none;
+  display: none;
 }
 
 body {
-    background-color:  #0B0C10;
+  background-color: #0b0c10;
 }
 
 #program-title {
-    font-family: "Papyrus", "Copperplate", monospace;
-    text-align: center;
-    font-size: 10vw;
-    color: #66FCF1;
+  font-family: "Papyrus", "Copperplate", monospace;
+  text-align: center;
+  font-size: 10vw;
+  color: #66fcf1;
 }
 
 button {
-    background-color:  #C5C6C7;
-    border-radius: 10px;
-    color: #0B0C10;
-    
+  background-color: #c5c6c7;
+  border-radius: 10px;
+  color: #0b0c10;
 }
 
 .title-view {
-    color: #66FCF1;
+  color: #66fcf1;
 }
 
 .description-view {
-    color: #C5C6C7;
+  color: #c5c6c7;
 }
 
-
-.save, .reset, .cancel {
-    background-color: #C5C6C7;
-    border-radius: 10px;
-    color:  #0B0C10;
+.save,
+.reset,
+.cancel {
+  background-color: #c5c6c7;
+  border-radius: 10px;
+  color: #0b0c10;
 }
 
 label {
-    color: #C5C6C7;
-    
+  color: #c5c6c7;
 }
 
 .input {
-    color: #0B0C10;
+  color: #0b0c10;
 }
 
 .date-view {
-
-    color: #C5C6C7;
+  color: #c5c6c7;
 }
 
 .prio-view {
-    color: white;
+  color: white;
 }
 
-#new-button, #proj-button {
-    margin-bottom: 20px;
-    font-size: 20px;
+#new-button,
+#proj-button {
+  margin-bottom: 20px;
+  font-size: 20px;
 }
 
 .proj-view {
-    width: 40vw;
-
+  width: 40vw;
 }
 
 .task-view {
-    width: 40vw;
+  width: 40vw;
 }
-
-
-    
