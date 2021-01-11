@@ -27,6 +27,7 @@ function makeNewInput(itemKey, inputType) {
   input.setAttribute("id", itemKey);
   input.setAttribute("name", itemKey);
   input.classList.add("input");
+  input.required = true;
   inputDiv.appendChild(input);
 
   return inputDiv;
@@ -43,6 +44,7 @@ function makeNewRadio(degree, prio) {
   inputP.setAttribute("id", degree);
   inputP.setAttribute("value", degree);
   inputP.classList.add("input");
+  inputP.required = true;
   prio
     ? inputP.setAttribute("name", "priority")
     : inputP.setAttribute("name", "project");
